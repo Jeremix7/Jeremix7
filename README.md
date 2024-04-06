@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Ilya</h1>
+<h1>Hi there👋, I'm Ilya</h1>
 <h3 align="center">I'm doing a master's degree in Data Science at Higher School of Economics.</h3>
 
 - 👨‍💻 I’m currently studying **data scraping and statistics**
