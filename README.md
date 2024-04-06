@@ -1,11 +1,11 @@
 <h1>Hi there👋, I'm Ilya</h1>
-<h3 align="center">I'm doing a master's degree in Data Science at Higher School of Economics.</h3>
+<h3>I'm doing a master's degree in Data Science at Higher School of Economics.</h3>
 
-- 👨‍💻 I’m currently studying **data scraping and statistics**
+- 👨‍💻 I’m currently studying **data scraping** and **statistics**
 
 - 💬 I speak **Russian (native), English (B2)**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
