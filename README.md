@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/Jeremix7/Jeremix7/blob/main/github%20image.jpg?raw=true)
 
-<h3 align="left">I'm doing a master's degree in Data Science at Higher School of Economics.</h3>
+<h3 align="left">I'm doing a master's degree in Data field at Higher School of Economics.</h3>
 
 ###
 
