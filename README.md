@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently studying **data scraping** and **statistics**
 
-- 💬 I speak **Russian (native), English (B2)**
+- 💬 I speak **Russian (native), English (B1)**
 
 
 <p align="left">
