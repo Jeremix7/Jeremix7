@@ -1,8 +1,5 @@
 
 ![alt text](https://github.com/Jeremix7/Jeremix7/blob/main/github%20image.jpg?raw=true)
-<div id="header" align="center">
-  <img src="https://github.com/Jeremix7/Jeremix7/blob/main/github%20image.jpg/>
-</div>
 
 <h1>Hi there👋, I'm Ilya</h1>
 <h3>I'm doing a master's degree in Data Science at Higher School of Economics.</h3>
