@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/Jeremix7/Jeremix7/blob/main/github%20image.jpg?raw=true)
 <div id="header" align="center">
   <img src="https://github.com/Jeremix7/Jeremix7/blob/main/github%20image.jpg/>
 </div>
