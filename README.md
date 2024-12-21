@@ -1,10 +1,6 @@
 
 ![alt text](https://github.com/Jeremix7/Jeremix7/blob/main/github.png)
 
-<h3 align="left">I'm doing a master's degree in Data field at Higher School of Economics.</h3>
-
-###
-
 <p align="left"> :heart: My passion for staying abreast of emerging technologies and frameworks drives my continuous learning.<br><br> :smiley: If you don't write your SQL queries in uppercase, I don't trust you.</p>
 
 ###
